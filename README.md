@@ -1,31 +1,61 @@
-# 一些能够改善你效率的工具、文章、教程、网站等等、会不定时更新 #
-
-##<a name="table"/>widows下的工具
-
+##<a name="code"/>代码高亮
+```Java
+public static void main(String[]args){} //Java
+```
+```c
+int main(int argc, char *argv[]) //C
+```
+```Bash
+echo "hello GitHub"#Bash
+```
+```javascript
+document.getElementById("myH1").innerHTML="Welcome to my Homepage"; //javascipt
+```
+```cpp
+string &operator+(const string& A,const string& B) //cpp
+```
+##<a name="table"/>显示表格
+表头1  | 表头2
 ------------- | -------------
-Everything    | Everything是voidtools开发的一款文件搜索工具、类似于mac下面的Alfred
-Clover  	  | 它能为你的Windows Explorer资源管理器增加多标签页的功能，就像谷歌浏览器那样方便好用
-印象笔记 	  | 知识管理软件、能够随时保存，多平台..类似的还有：麦库记事、为知笔记、有道云等等
+Content Cell  | Content Cell
+Content Cell  | Content Cell
 
-##<a name="table"/> mac下的工具
-| 		 名称			| 	     说明		|
-| 		 --			| 	     --		|
-| 		Alfred 			| 	  神兵利器  		|
-| 		Homebrew 			| 	  软件管理，一行命令即可安装所需软件  		|
-| 		Homebrew case 	| 	   和homebrew一样，只不过是用来安装图形界面软件的 		|
-| 		iTerm2 			| 	   比mac自带的终端好用多了，再集成zsh,那酸爽 		|
-| 		Sequel Pro 			| 	   mac下的mysql管理工具，免费，用不起navicat的同学可以试试 		|
-| 		 Mou			| 	    mac下面的markdown编写软件，即时预览，十分好用		|
-| 		 SourceTree			| 	   不用我说了，用mac的同时还用git的同学，还不知道这个，回家面壁去吧，mac下面git版本管理软件 		|
+| 表头1  | 表头2|
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
+| 名字 | 描述          |
+| ------------- | ----------- |
+| Help      | Display the help window.|
+| Close     | Closes a window     |
 
+表格中也可以使用普通文本的删除线，斜体等效果
 
+| 名字 | 描述          |
+| ------------- | ----------- |
+| Help      | ~~Display the~~ help window.|
+| Close     | _Closes_ a window     |
 
+表格可以指定对齐方式
 
+| 左对齐 | 居中  | 右对齐 |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
 
+表格中嵌入图片
 
+| 图片 | 描述 |
+| ---- | ---- |
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo") | baidu
 
+##<a name="emoji"/>添加表情
+Github的Markdown语法支持添加emoji表情，输入不同的符号码（两个冒号包围的字符）可以显示出不同的表情。
 
+比如`:blush:`，可以显示:blush:。
 
+具体每一个表情的符号码，可以查询GitHub的官方网页[http://www.emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com)。
 
-
+但是这个网页每次都打开**奇慢**。。所以我整理到了本repo中，大家可以直接在此查看[emoji](./emoji.md)。
