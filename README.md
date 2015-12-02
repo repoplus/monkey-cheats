@@ -1,14 +1,13 @@
 # 一些能够改善你效率的工具、文章、教程、网站等等、会不定时更新 #
-## ##
-### widows下的工具 ###
 
-| 		名称 		| 	   说明 		|
-| 		-- 			| 	    -- 		|
-|Everything		 	|Everything是voidtools开发的一款文件搜索工具、类似于mac下面的Alfred|
-|(Mac)		|Everything是voidtools开发的一款文件搜索工具、类似于mac下面的Alfred|
-|Clover 		 	|它能为你的Windows Explorer资源管理器增加多标签页的功能，就像谷歌浏览器那样方便好用|
-|印象笔记 		 	|知识管理软件、能够随时保存，多平台..类似的还有：麦库记事、为知笔记、有道云等等 	   |
-### mac下的工具 ###
+##<a name="table"/>widows下的工具
+
+------------- | -------------
+Everything    | Everything是voidtools开发的一款文件搜索工具、类似于mac下面的Alfred
+Clover  	  | 它能为你的Windows Explorer资源管理器增加多标签页的功能，就像谷歌浏览器那样方便好用
+印象笔记 	  | 知识管理软件、能够随时保存，多平台..类似的还有：麦库记事、为知笔记、有道云等等
+
+##<a name="table"/> mac下的工具
 | 		 名称			| 	     说明		|
 | 		 --			| 	     --		|
 | 		Alfred 			| 	  神兵利器  		|
