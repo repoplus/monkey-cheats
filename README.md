@@ -90,6 +90,7 @@ httpie(linux)|一个 CLI 中的 HTTP 客户端 用法简单、易读
 [百度 FEX](http://fex.baidu.com/)|代表作 FIS、UEditor、WebUploader、KityMinder
 [前端乱炖](http://www.html-js.com/)|一个专业级别的前端社区
 [极客学院](http://www.jikexueyuan.com/course/web/)|在线视频学习，中高级视频，适合深入学习，内容比慕课更加丰富，只不过要收费
+[极客学院Wiki](http://wiki.jikexueyuan.com/)|各种在线api，文档，工具使用.堪称程序员宝典
 [腾讯全端 AlloyTeam](http://www.alloyteam.com/)|记录了一些腾讯web前端的一些资源，留言等等
 [Div.IO](http://div.io/digg)|主要内容是最新的前端库和前沿技术
 [阮一峰](http://www.ruanyifeng.com/blog/archives.html)|阮一峰大神的博客，有很多好东西可以学
@@ -134,6 +135,16 @@ httpie(linux)|一个 CLI 中的 HTTP 客户端 用法简单、易读
 [linux curl](http://blog.51yip.com/linux/1049.html)|linux curl 命令详解，以及实例
 [Jackson树模型](http://www.yiibai.com/jackson/jackson_tree_model.html)|Jackson从入门到精通
 [android从入门到精通](http://www.runoob.com/w3cnote/android-tutorial-end.html)|里面有android从入门到精通的所有教程，除了教程，还有android的职业规划，学习步骤等等
+
+### 谷歌插件
+名称 | 描述
+------------- |-------------
+[Adblock Plus](https://adblockplus.org/)|防广告插件
+[Infinity](http://www.infinitynewtab.com/)|一个标签管理插件，很炫，也很好用
+[JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?utm_source=chrome-app-launcher-info-dialog)|一个接口调试插件，能够将json格式化，方便查看，有了他，再也不怕调试了
+[Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?utm_source=chrome-app-launcher-info-dialog)|接口调试软件，可以模拟各种请求，调试利器
+[advanced rest client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo?utm_source=chrome-app-launcher-info-dialog)|类似于PostMan的一个插件，也是接口调试插件，听说比PostMan好用，本人没用过，群友推荐的
+[Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?utm_source=chrome-app-launcher-info-dialog)|装了这个插件，你随便打开一个网站，就能看到他用了那些技术来实现的n的一个插件，也是接口调试插件，听说比PostMan好用，本人没用过，群友推荐的
 
 
 
