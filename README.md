@@ -133,6 +133,8 @@ httpie(linux)|一个 CLI 中的 HTTP 客户端 用法简单、易读
 [Linux](http://linuxtools-rst.readthedocs.org/zh_CN/latest/base/index.html)|gitbook版的Linux从入门到实战
 [linux curl](http://blog.51yip.com/linux/1049.html)|linux curl 命令详解，以及实例
 [Jackson树模型](http://www.yiibai.com/jackson/jackson_tree_model.html)|Jackson从入门到精通
+[android从入门到精通](http://www.runoob.com/w3cnote/android-tutorial-end.html)|里面有android从入门到精通的所有教程，除了教程，还有android的职业规划，学习步骤等等
+
 
 
 
