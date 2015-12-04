@@ -146,6 +146,12 @@ httpie(linux)|一个 CLI 中的 HTTP 客户端 用法简单、易读
 [advanced rest client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo?utm_source=chrome-app-launcher-info-dialog)|类似于PostMan的一个插件，也是接口调试插件，听说比PostMan好用，本人没用过，群友推荐的
 [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?utm_source=chrome-app-launcher-info-dialog)|装了这个插件，你随便打开一个网站，就能看到他用了那些技术来实现的n的一个插件，也是接口调试插件，听说比PostMan好用，本人没用过，群友推荐的
 
+### 其他
+名称 | 描述
+------------- |-------------
+[瓦力部署系统](https://github.com/meolu/walle-web/blob/master/docs/README-zh.md)|Walle 一个web部署系统工具，可能也是个持续发布工具，配置简单、功能完善、界面流畅、开箱即用！支持git、svn版本管理，支持各种web代码发布，静态的HTML，动态PHP，需要编译的JAVA等。
+[文档助手](https://github.com/meolu/walden)|最适合东半球同学使用的文档助手
+
 
 
 
