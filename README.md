@@ -51,6 +51,7 @@ CleanMyMac(mac)|mac下面特别好用的清理软件
 tree(linux)|linux以树状图逐级列出目录的内容
 oneapm(linux)|强大的运维工具，提供多种监控客户端； 有采集、分析、展示等一套功能；
 httpie(linux)|一个 CLI 中的 HTTP 客户端 用法简单、易读
+[Windows常用软件推荐](http://wsgzao.github.io/post/windows/#)|其他网友收集的一些windows下面比较好用的软件，感觉还不错，备份一下
 
 ### 在线使用工具
 名称 | 描述
