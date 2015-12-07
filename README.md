@@ -136,6 +136,7 @@ httpie(linux)|一个 CLI 中的 HTTP 客户端 用法简单、易读
 [linux curl](http://blog.51yip.com/linux/1049.html)|linux curl 命令详解，以及实例
 [Jackson树模型](http://www.yiibai.com/jackson/jackson_tree_model.html)|Jackson从入门到精通
 [android从入门到精通](http://www.runoob.com/w3cnote/android-tutorial-end.html)|里面有android从入门到精通的所有教程，除了教程，还有android的职业规划，学习步骤等等
+[Markdown语法说明](http://wowubuntu.com/markdown/)|Markdown语法说明，挺全的，都看懂，基本就能实用了
 
 ### 谷歌插件
 名称 | 描述
@@ -145,7 +146,7 @@ httpie(linux)|一个 CLI 中的 HTTP 客户端 用法简单、易读
 [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?utm_source=chrome-app-launcher-info-dialog)|一个接口调试插件，能够将json格式化，方便查看，有了他，再也不怕调试了
 [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?utm_source=chrome-app-launcher-info-dialog)|接口调试软件，可以模拟各种请求，调试利器
 [advanced rest client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo?utm_source=chrome-app-launcher-info-dialog)|类似于PostMan的一个插件，也是接口调试插件，听说比PostMan好用，本人没用过，群友推荐的
-[Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?utm_source=chrome-app-launcher-info-dialog)|装了这个插件，你随便打开一个网站，就能看到他用了那些技术来实现的n的一个插件，也是接口调试插件，听说比PostMan好用，本人没用过，群友推荐的
+[Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?utm_source=chrome-app-launcher-info-dialog)|装了这个插件，你随便打开一个网站，就能看到他用了那些技术来实现的一个插件
 
 ### 其他
 名称 | 描述
