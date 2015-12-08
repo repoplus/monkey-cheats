@@ -1,4 +1,7 @@
 ##<a name="table"/>一些能够改善你效率的工具、文章、教程、网站等等、会不定时更新
+
+这两天浪费了点时间弄博客(因为国内访问github还是有点慢，现阶段能想到的就是github pages + gitcafe pages 根据不同区域的访问，进入到不同网站)还有gitbook(到时候会出教程),本来是想将所有东西弄到博客上的，后来一个群友推荐使用gitbook更加方便，所以又浪费了点时间折腾node.js,索性，都弄好了，到时候我会将这篇分享，整理成gitbook，并且同步更新博客
+
 ### 本地安装工具
 名称  | 描述
 ------------- | -------------
@@ -58,6 +61,7 @@ httpie(linux)|一个 CLI 中的 HTTP 客户端 用法简单、易读
 ------------- |-------------
 [OSTools在线工具](http://tool.oschina.net/)|提供在线CSS/JS 调试，在线API文档,Less CSS编译器等在线工具
 [程序员工具箱](http://tool.php100.com/)|一般程序员所需的工具，里面都有下载，什么Mysql啊，php啊，nginx啊等等
+[源码之家](http://www.mycodes.net/1/)|里面有很多工具，源码，模版，教程书籍
 [ASCII码表](http://www.litefeel.com/tools/ascii.php)|ASCII码表在线查询
 [在线json格式化工具](http://pro.jsonlint.com/)|国外的，无广告，双窗口对比等等，主要的是不会上传你的资料，安全
 [在线maven库](http://maven.oschina.net/)|你要是缺啥maven,直接来这边找把
