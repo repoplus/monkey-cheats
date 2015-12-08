@@ -65,6 +65,7 @@ httpie(linux)|一个 CLI 中的 HTTP 客户端 用法简单、易读
 [ASCII码表](http://www.litefeel.com/tools/ascii.php)|ASCII码表在线查询
 [在线json格式化工具](http://pro.jsonlint.com/)|国外的，无广告，双窗口对比等等，主要的是不会上传你的资料，安全
 [在线maven库](http://maven.oschina.net/)|你要是缺啥maven,直接来这边找把
+[淘宝NPM镜像](http://npm.taobao.org/)|当初在npm安装花了不少时间，有了它，你就可以免除这些烦恼，淘宝将所有node.js的镜像，都收藏在里面
 [RunJS在线编辑](http://runjs.cn/)|在线编辑测试JS/HTML/CSS的工具,实时预览、保存、分享、Fork。
 [百度CDN公共库](http://cdn.code.baidu.com/)|基本常见的库里面都有，什么angular啊，bootstrap啊，应有尽有，测试demo的时候，再也不用愁了
 [HTML 和 CSS 代码规范](http://codeguide.bootcss.com/)|编写灵活、稳定、高质量的 HTML 和 CSS 代码的规范
