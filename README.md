@@ -143,6 +143,9 @@ AirDroid(mac)|mac下面调试android的神器，谁用谁知道
 [Jackson树模型](http://www.yiibai.com/jackson/jackson_tree_model.html)|Jackson从入门到精通
 [android从入门到精通](http://www.runoob.com/w3cnote/android-tutorial-end.html)|里面有android从入门到精通的所有教程，除了教程，还有android的职业规划，学习步骤等等
 [Markdown语法说明](http://wowubuntu.com/markdown/)|Markdown语法说明，挺全的，都看懂，基本就能实用了
+[gitbook入门](http://wanqingwong.com/gitbook-zh/publish/gitpages.html)|从nodejs安装到发布到github pages
+[gitbook进阶](http://www.chengweiyang.cn/gitbook/basic-usage/README.html)|gitbook进阶
+
 
 ### 谷歌插件
 名称 | 描述
