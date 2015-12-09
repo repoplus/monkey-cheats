@@ -54,6 +54,7 @@ CleanMyMac(mac)|mac下面特别好用的清理软件
 tree(linux)|linux以树状图逐级列出目录的内容
 oneapm(linux)|强大的运维工具，提供多种监控客户端； 有采集、分析、展示等一套功能；
 httpie(linux)|一个 CLI 中的 HTTP 客户端 用法简单、易读
+AirDroid(mac)|mac下面调试android的神器，谁用谁知道
 [Windows常用软件推荐](http://wsgzao.github.io/post/windows/#)|其他网友收集的一些windows下面比较好用的软件，感觉还不错，备份一下
 
 ### 在线使用工具
@@ -133,7 +134,7 @@ httpie(linux)|一个 CLI 中的 HTTP 客户端 用法简单、易读
 名称 | 描述
 ------------- |-------------
 [docker从入门到实践](http://dockerpool.com/static/books/docker_practice/container/run.html)|gitbook版的docker教程，从入门到实践。教程还是很不错的。
-[springboot](https://yuanchongzhen.gitbooks.io/spring-boot-reference-guide/content/I.%20Spring%20Boot%20Documentation/1.%20About%20the%20documentation.html)|gitbook版的springboot从入门到精通
+[springboot](https://yuanchongzhen.gitbooks.io/spring-boot-reference-guide/content/)|gitbook版的springboot从入门到精通
 [shipyard](http://dockerpool.com/static/books/shipyard_doc/index.html)|gitbook版的shipyard中文文档、Docker的WEB管理界面
 [git](http://www.ihref.com/read-16369.html)|Git版本控制软件结合GitHub从入门到精通常用命令学习手册
 [git](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137396287703354d8c6c01c904c7d9ff056ae23da865a000)|阮一峰的git入门教程，视频+代码，教你一步一步入门
