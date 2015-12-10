@@ -33,7 +33,7 @@
 ##### 使用gitbook初始化
 
 	gitbook init 初始化
-	gitbook serve 不熟gitbook
+	gitbook serve 部署gitbook
 
 ##### 访问该源码书
 	
