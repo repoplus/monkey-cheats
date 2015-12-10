@@ -1,6 +1,8 @@
 
 ## 将原来的分享列表，整理成在线gitbook,方便大家阅读和下载
 
+#### [阅读地址](https://maozhenggang.gitbooks.io/monkey-cheats/content/)
+
 #### 技术选型
 
 > - gitbook
