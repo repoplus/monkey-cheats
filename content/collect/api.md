@@ -11,6 +11,7 @@
 * springboot
 	* [gitbook版的springboot入门到精通](https://yuanchongzhen.gitbooks.io/spring-boot-reference-guide/content/)
 * docker
+	* [docker各个平台的安装连接教程](http://docker.widuu.com/)
 	* [docker从入门到实践](http://dockerpool.com/static/books/docker_practice/container/run.html)
 	* [shipyard、docker的web管理界面](http://dockerpool.com/static/books/shipyard_doc/index.html)
 * linux 
