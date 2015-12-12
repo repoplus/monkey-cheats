@@ -12,6 +12,7 @@
 [CCleaner](http://www.piriform.com/ccleaner "CCleaner")|一款在windows上面的清理软件，十分好用
 [Visio](http://www.microsoft.com/zh-cn/download/details.aspx?id=35811 "Visio")|流程图工具
 [picpick](http://ngwin.com/picpick "picpick")|一个全功能的屏幕截图工具,直观的图像编辑器,颜色选择器,颜色调色板,像素标尺,量角器,瞄准线和白板等等。
+[fiddler](http://www.telerik.com/fiddler "fiddler")|windows下面的抓包工具，你值得拥有！和mac下面的Charles差不多！
 
 
 
