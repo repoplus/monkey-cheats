@@ -12,6 +12,7 @@
 	* [自我提升](content/collect/promontion.md)
 	* [论坛](content/collect/forum.md)
 	* [技术文档、api](content/collect/api.md)
+	* [精选博文](content/collect/article.md)
 * [插件](content/plugin.md)
 	* [谷歌插件](content/plugin/chrome.md)
 	* [ide插件](content/plugin/ide.md)		
