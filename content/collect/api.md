@@ -21,6 +21,7 @@
 	* [Jackson从入门到精通](http://www.yiibai.com/jackson/jackson_tree_model.html)
 * android
 	* [android从入门到精通](http://www.runoob.com/w3cnote/android-tutorial-end.html)
+	* [Android 开发者必备技术干货](http://www.jianshu.com/p/ed1a72af274a)
 * markdown
 	* [Markdown语法说明、适合入门](http://wowubuntu.com/markdown/)
 * gitbook
@@ -28,5 +29,7 @@
 	* [gitbook进阶](http://www.chengweiyang.cn/gitbook/basic-usage/README.html)
 * javascript
 	* [零基础JavaScript全栈教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
+* java
+	* [java十分钟速懂知识点——System类](http://www.cnblogs.com/good-temper/p/5042058.html)
 	
 	
