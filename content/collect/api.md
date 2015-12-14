@@ -44,6 +44,7 @@
 	* [java十分钟速懂知识点——System类](http://www.cnblogs.com/good-temper/p/5042058.html)
 	* [关键业务系统的JVM启动参数推荐](http://calvin1978.blogcn.com/articles/jvmoption-2.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 	* [Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+	* [深度分析Java的ClassLoader机制（源码级别）](http://www.hollischuang.com/archives/199)
 * 前端
 	* [常用前端开发资源列表](https://github.com/putaoshu/fe-dev-bookmarks?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 	
