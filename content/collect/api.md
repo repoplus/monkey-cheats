@@ -29,6 +29,7 @@
 		* [Android 开发者必备技术干货](http://www.jianshu.com/p/ed1a72af274a)
 		* [15个必知的Android开发者选项](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401101455&idx=1&sn=dffc19631e2356ed0aea581f5d7769d7&scene=1&srcid=1210EPYGYqP0b7LOZzqywvmS&from=groupmessage&isappinstalled=0#wechat_redirect)
 		* [Android开发者网址导航](http://www.jianshu.com/p/54902270249d?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+		* [10个Android开源个性化View控件](http://www.jianshu.com/p/cb705d582859#)
 	* ios
 		* [【资源集合】94个iOS开发资源推荐，帮你加速应用开发](http://www.cocoachina.com/ios/20151210/14635.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * markdown
