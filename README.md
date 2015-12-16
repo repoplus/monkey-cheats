@@ -1,8 +1,10 @@
 
-## 将原来的分享列表，整理成在线gitbook,方便大家阅读和下载
+## 将原来的分享列表，整理了一下,方便大家阅读和下载
 
-#### [阅读地址](https://maozhenggang.gitbooks.io/monkey-cheats/content/)
-
+* 阅读地址
+	* [gitbook地址](https://maozhenggang.gitbooks.io/monkey-cheats/content/)
+	* [国内地址](http://www.kancloud.cn/maozhenggang/monkey-cheats)
+	
 #### 技术选型
 
 > - gitbook
@@ -11,7 +13,7 @@
 
 > - 群友推荐
 > - 感觉gitbook简单，清晰，看起来十分舒服
-> - 为以后自己写一本源码书做准备(哈哈，这B装的)
+> - 感觉这个写文档不错
 
 #### 如何编写gitbook
 
