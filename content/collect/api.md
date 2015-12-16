@@ -48,6 +48,8 @@
 	* [深度分析Java的ClassLoader机制（源码级别）](http://www.hollischuang.com/archives/199)
 * 前端
 	* [常用前端开发资源列表](https://github.com/putaoshu/fe-dev-bookmarks?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* redis
+	* [Redis 命令参考](http://doc.redisfans.com/)
 	
 	
 	
