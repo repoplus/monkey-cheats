@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Summary gitbook结构布局文件
 	
 * [工具](content/software.md)
@@ -16,3 +17,6 @@
 * [插件](content/plugin.md)
 	* [谷歌插件](content/plugin/chrome.md)
 	* [ide插件](content/plugin/ide.md)		
+=======
+* [空白目录](default.md)
+>>>>>>> 50384f369cd0871b83d34852887a5cabeaaeec66
