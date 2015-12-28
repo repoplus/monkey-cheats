@@ -13,6 +13,7 @@
 * springboot
 	* [gitbook版的springboot入门到精通](https://yuanchongzhen.gitbooks.io/spring-boot-reference-guide/content/)
 	* [Spring Boot：定制自己的starter](http://www.jianshu.com/p/85460c1d835a?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+	* [springboot资源](http://www.jianshu.com/p/5ac18abc91f0)
 * docker
 	* [docker各个平台的安装连接教程](http://docker.widuu.com/)
 	* [docker从入门到实践](http://dockerpool.com/static/books/docker_practice/container/run.html)
@@ -46,6 +47,8 @@
 	* [关键业务系统的JVM启动参数推荐](http://calvin1978.blogcn.com/articles/jvmoption-2.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 	* [Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 	* [深度分析Java的ClassLoader机制（源码级别）](http://www.hollischuang.com/archives/199)
+	* [9本Java程序员必读的书](http://blog.csdn.net/i10630226/article/details/49913673)
+	* [](http://blog.csdn.net/dmk877/article/details/50311791)
 * 前端
 	* [常用前端开发资源列表](https://github.com/putaoshu/fe-dev-bookmarks?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * redis
