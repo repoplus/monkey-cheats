@@ -11,3 +11,4 @@
 	* [Windows 下有什么软件能够极大地提高工作效率](http://blog.jobbole.com/63130/)
 * mac
 	* [如何配置一个高效的 Mac 工作环境](http://blog.jobbole.com/63130/)
+	* [Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac)

@@ -17,4 +17,6 @@
 |[TextMate](https://macromates.com/)|mac下面的文本编辑器|
 |[CleanMyMac](http://macpaw.com/cleanmymac)|mac下面的清理工具|
 |[AirDroid](http://web.airdroid.com/)|android调试专用神器、不是安装软件，归类放在这边|
+|[Wireshark](https://www.wireshark.org/)|不习惯mac下面Fiddler的童鞋、可以试试|
+
 
