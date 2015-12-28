@@ -4,5 +4,5 @@
 * [DBA的罗浮宫](http://mdba.cn/)
 * [风雪之隅](http://www.laruence.com/)、主php
 * [前端](https://uptodate.frontendrescue.org/zh/)
-
+* [lifesinger](https://github.com/lifesinger/blog/issues)、github 2600多start
 
