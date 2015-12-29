@@ -41,6 +41,7 @@
 * javascript
 	* [零基础JavaScript全栈教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
 	* [JavaScript错误捕获，日志展示](https://github.com/icepy/cm.logger?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+	* [JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等](https://github.com/jobbole/awesome-javascript-cn)
 * java
 	* [Jackson从入门到精通](http://www.yiibai.com/jackson/jackson_tree_model.html)
 	* [java十分钟速懂知识点——System类](http://www.cnblogs.com/good-temper/p/5042058.html)
@@ -49,6 +50,7 @@
 	* [深度分析Java的ClassLoader机制（源码级别）](http://www.hollischuang.com/archives/199)
 	* [9本Java程序员必读的书](http://blog.csdn.net/i10630226/article/details/49913673)
 	* [Java工程师成神之路~](http://www.hollischuang.com/archives/489)
+	* [Java资源大全中文版、内容包括：构建工具、数据库、框架、模板、安全、代码分析、日志、第三方库、书籍、Java 站点等等](https://github.com/jobbole/awesome-java-cn)
 * 前端
 	* [常用前端开发资源列表](https://github.com/putaoshu/fe-dev-bookmarks?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * redis
@@ -57,6 +59,7 @@
 	* [MongoDB 极简实践入门](https://github.com/StevenSLXie/Tutorials-for-Web-Developers/blob/master/MongoDB%20%E6%9E%81%E7%AE%80%E5%AE%9E%E8%B7%B5%E5%85%A5%E9%97%A8.md)
 * c语言
 	* [C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。](https://github.com/jobbole/awesome-c-cn)
-	
-	
-	
+* css
+	* [CSS 资源大全中文版、内容包括：CSS预处理器、框架、CSS结构、代码风格指南、命名习惯、播客、演讲视频、大网站的 CSS 开发经验等等](https://github.com/jobbole/awesome-css-cn)
+* 设计
+	* [包含：ICON图标、Logo设计、PhotoShop插件、交互设计工具、流程图、线框图/原型图、设计博客、设计工具设计教程、设计素材、配色方案、高清图库等等](https://github.com/jobbole/awesome-design-cn)
