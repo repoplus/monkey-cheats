@@ -58,8 +58,8 @@
 * moogodb
 	* [MongoDB 极简实践入门](https://github.com/StevenSLXie/Tutorials-for-Web-Developers/blob/master/MongoDB%20%E6%9E%81%E7%AE%80%E5%AE%9E%E8%B7%B5%E5%85%A5%E9%97%A8.md)
 * c语言
-	* [C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。](https://github.com/jobbole/awesome-c-cn)
+	* [包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。](https://github.com/jobbole/awesome-c-cn)
 * css
-	* [CSS 资源大全中文版、内容包括：CSS预处理器、框架、CSS结构、代码风格指南、命名习惯、播客、演讲视频、大网站的 CSS 开发经验等等](https://github.com/jobbole/awesome-css-cn)
+	* [内容包括：CSS预处理器、框架、CSS结构、代码风格指南、命名习惯、播客、演讲视频、大网站的 CSS 开发经验等等](https://github.com/jobbole/awesome-css-cn)
 * 设计
 	* [包含：ICON图标、Logo设计、PhotoShop插件、交互设计工具、流程图、线框图/原型图、设计博客、设计工具设计教程、设计素材、配色方案、高清图库等等](https://github.com/jobbole/awesome-design-cn)
