@@ -55,6 +55,8 @@
 	* [Redis 命令参考](http://doc.redisfans.com/)
 * moogodb
 	* [MongoDB 极简实践入门](https://github.com/StevenSLXie/Tutorials-for-Web-Developers/blob/master/MongoDB%20%E6%9E%81%E7%AE%80%E5%AE%9E%E8%B7%B5%E5%85%A5%E9%97%A8.md)
+* c语言
+	* [C 语言资源大全](http://blog.jobbole.com/95054/)
 	
 	
 	
