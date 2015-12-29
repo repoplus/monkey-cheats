@@ -48,7 +48,7 @@
 	* [Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 	* [深度分析Java的ClassLoader机制（源码级别）](http://www.hollischuang.com/archives/199)
 	* [9本Java程序员必读的书](http://blog.csdn.net/i10630226/article/details/49913673)
-	* [](http://blog.csdn.net/dmk877/article/details/50311791)
+	* [Java工程师成神之路~](http://www.hollischuang.com/archives/489)
 * 前端
 	* [常用前端开发资源列表](https://github.com/putaoshu/fe-dev-bookmarks?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * redis
