@@ -42,6 +42,7 @@
 	* [零基础JavaScript全栈教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
 	* [JavaScript错误捕获，日志展示](https://github.com/icepy/cm.logger?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 	* [JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等](https://github.com/jobbole/awesome-javascript-cn)
+	* [JavaScript 编程实战优化](https://github.com/mzkmzk/Read/blob/master/bian_cheng_shi_zhan.md?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * java
 	* [Jackson从入门到精通](http://www.yiibai.com/jackson/jackson_tree_model.html)
 	* [java十分钟速懂知识点——System类](http://www.cnblogs.com/good-temper/p/5042058.html)
