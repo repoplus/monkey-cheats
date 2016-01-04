@@ -70,3 +70,4 @@
 	* [python3之Python Cookbook全系列教程](http://python3-cookbook.readthedocs.org/zh_CN/latest/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * NodeJS
 	* [NodeJS+Express的教程代码](https://github.com/EthanRBrown/web-development-with-node-and-express)
+	* [node.js中文资料导航](https://github.com/youyudehexie/node123)
