@@ -35,6 +35,7 @@
 		* [【资源集合】94个iOS开发资源推荐，帮你加速应用开发](http://www.cocoachina.com/ios/20151210/14635.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * markdown
 	* [Markdown语法说明、适合入门](http://wowubuntu.com/markdown/)
+	* [markdown 介绍/学习/工具/资料](https://github.com/xirong/my-markdown)
 * gitbook
 	* [gitbook入门](http://wanqingwong.com/gitbook-zh/publish/gitpages.html)
 	* [gitbook进阶](http://www.chengweiyang.cn/gitbook/basic-usage/README.html)
