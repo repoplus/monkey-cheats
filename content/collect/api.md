@@ -71,3 +71,5 @@
 * NodeJS
 	* [NodeJS+Express的教程代码](https://github.com/EthanRBrown/web-development-with-node-and-express)
 	* [node.js中文资料导航](https://github.com/youyudehexie/node123)
+	* [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
+
