@@ -57,6 +57,7 @@
 	* [常用前端开发资源列表](https://github.com/putaoshu/fe-dev-bookmarks?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * redis
 	* [Redis 命令参考](http://doc.redisfans.com/)
+	* [Redis开发运维实践指南、包含开发和运维的各方面的使用、应用场景和最佳实践，以及各个高可用架构的搭建和测试](https://gnuhpc.gitbooks.io/redis-all-about/content/)
 * moogodb
 	* [MongoDB 极简实践入门](https://github.com/StevenSLXie/Tutorials-for-Web-Developers/blob/master/MongoDB%20%E6%9E%81%E7%AE%80%E5%AE%9E%E8%B7%B5%E5%85%A5%E9%97%A8.md)
 * c语言
