@@ -19,6 +19,7 @@
 	* [docker从入门到实践](http://dockerpool.com/static/books/docker_practice/container/run.html)
 	* [shipyard、docker的web管理界面](http://dockerpool.com/static/books/shipyard_doc/index.html)
 	* [玩转Docker镜像和镜像构建](http://dockone.io/article/883?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+	* [docker视频32讲](http://www.kaikeba.com/kkb/kaikeba/content_video.html?vId=2740)
 * linux 
 	* [gitbook版的linux入门到实战](http://linuxtools-rst.readthedocs.org/zh_CN/latest/base/index.html)
 	* [linux curl 命令详解，以及实例](http://blog.51yip.com/linux/1049.html)
