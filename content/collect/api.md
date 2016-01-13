@@ -24,6 +24,7 @@
 * linux 
 	* [gitbook版的linux入门到实战](http://linuxtools-rst.readthedocs.org/zh_CN/latest/base/index.html)
 	* [linux curl 命令详解，以及实例](http://blog.51yip.com/linux/1049.html)
+	* [Linux命令大全、好东西、所有命令、应有尽有、所见即所得](http://man.linuxde.net/)
 * 移动端
 	* 通用
 		* [移动Web资源整理](http://www.cnblogs.com/PeunZhang/p/3407453.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
