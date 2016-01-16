@@ -60,6 +60,7 @@
 	* [Java资源大全中文版、内容包括：构建工具、数据库、框架、模板、安全、代码分析、日志、第三方库、书籍、Java 站点等等](https://github.com/jobbole/awesome-java-cn)
 * 前端
 	* [常用前端开发资源列表](https://github.com/putaoshu/fe-dev-bookmarks?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+	* [前端收集](https://github.com/ccforward/front-end-collect)
 * redis
 	* [Redis 命令参考](http://doc.redisfans.com/)
 	* [Redis开发运维实践指南、包含开发和运维的各方面的使用、应用场景和最佳实践，以及各个高可用架构的搭建和测试](https://gnuhpc.gitbooks.io/redis-all-about/content/)
