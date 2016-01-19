@@ -10,7 +10,6 @@
 |[Chrome Web Store](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa)|装了该插件、你就可以批量管理你的谷歌插件了。一键全部警用、一键开启等等|
 |[OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?utm_source=chrome-app-launcher-info-dialog)|是不是有过这种经历、打开了无数个tabs、有些页面信息还比较重要、舍不得关掉、有了这个插件、你就可以一键保存你所有的tabs的状态、一键打开|
 |[Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?utm_source=chrome-app-launcher-info-dialog)|有了这个插件、你在github上查看别人的源代码、就可以像在本地的ide上一样了、简单明了|
-
 |[ChromeADB](https://chrome.google.com/webstore/detail/chromeadb/fhdoijgfljahinnpbolfdimpcfoicmnm?utm_source=chrome-app-launcher-info-dialog)|可以调试链接上adb的android手机、查看你的内存、硬盘使用情况、还可以控制你手机的App等|
 
 
