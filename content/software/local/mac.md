@@ -18,5 +18,8 @@
 |[CleanMyMac](http://macpaw.com/cleanmymac)|mac下面的清理工具|
 |[AirDroid](http://web.airdroid.com/)|android调试专用神器、不是安装软件，归类放在这边|
 |[Wireshark](https://www.wireshark.org/)|不习惯mac下面Fiddler的童鞋、可以试试|
+|[程序员专用笔记 Quiver](http://blog.rainy.im/2016/01/19/quiver-programmers-notebook/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|mac下的一款记事本、功能很强大|
+
+
 
 
