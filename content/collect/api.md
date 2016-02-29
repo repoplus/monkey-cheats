@@ -80,6 +80,7 @@
 	* [Go 边看边练 -《Go 学习笔记》系列](http://hacpai.com/article/1437497122181?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * python
 	* [python3之Python Cookbook全系列教程](http://python3-cookbook.readthedocs.org/zh_CN/latest/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+	* [Python 学习资源](http://dylanninin.com/blog/2013/11/23/python_resource.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * NodeJS
 	* [NodeJS+Express的教程代码](https://github.com/EthanRBrown/web-development-with-node-and-express)
 	* [node.js中文资料导航](https://github.com/youyudehexie/node123)
