@@ -64,6 +64,7 @@
 * 前端
 	* [常用前端开发资源列表](https://github.com/putaoshu/fe-dev-bookmarks?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 	* [前端收集](https://github.com/ccforward/front-end-collect)
+	* [最全的资源教程-前端涉及的所有知识体系](https://github.com/AutumnsWind/Front-end-tutorial)
 * redis
 	* [redis快速入门](http://www.yiibai.com/redis/redis_quick_guide.html)
 	* [Redis 命令参考](http://doc.redisfans.com/)
