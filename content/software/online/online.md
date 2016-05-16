@@ -21,3 +21,6 @@
 |[UI中国](http://www.ui.cn/list.html)|也是淘素材的地方，好东西也挺多的|
 |[easyicon](http://www.easyicon.net/)|这是我专门淘图标的地方，各种图标，应有尽有|
 |[daocloud](https://dashboard.daocloud.io/)|docker加速器，很强大，谁用谁知道|
+|[灵雀云](http://www.alauda.cn/)|和daocloud差不多、更注重容器分享等、可以在里面找容器|
+
+
