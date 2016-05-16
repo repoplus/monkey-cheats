@@ -13,6 +13,7 @@
 |[Visio](http://www.microsoft.com/zh-cn/download/details.aspx?id=35811 "Visio")|流程图工具|
 |[picpick](http://ngwin.com/picpick "picpick")|一个全功能的屏幕截图工具,直观的图像编辑器,颜色选择器,颜色调色板,像素标尺,量角器,瞄准线和白板等等。|
 |[fiddler](http://www.telerik.com/fiddler "fiddler")|windows下面的抓包工具，你值得拥有！和mac下面的Charles差不多！|
+|[Zeal](https://zealdocs.org/)|windows下面的api查询、管理软件类似于Mac下面的Dash|
 
 
 
