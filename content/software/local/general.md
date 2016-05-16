@@ -2,7 +2,7 @@
 |---|---|
 |[印象笔记](https://www.yinxiang.com/)|知识管理软件、能够随时保存，多平台..类似的还有：麦库记事、为知笔记、有道云等等|
 |[HBuilder](http://www.dcloud.io/)|一款编写js的ide,特别好用，谁用谁知道|
-|[Dropbox](https://www.dropbox.com/)|一款同步软件，多平台，用来进行代码备份，很实用(不仅仅是代码备份)|
+|[Dropbox](https://www.dropbox.com/)|一款同步软件，多平台，用来进行代码备份，很实用(不仅仅是代码备份),比百度云正规多了、如果想用国内的画、亿方云不错|
 |[virualBox](https://www.virtualbox.org/)|虚拟机，免费，小巧，如果你在windows下面还有mac下面学习docker必备|
 |[1password](https://agilebits.com/onepassword)|密码管理工具，和LastPass不一样，配置文件默认存在本地，多平台，和Dropbox配合，完美!|
 |[SourceTree](https://www.sourcetreeapp.com/)|不用我说了，管理git的最好用的工具，没有之一|
@@ -17,5 +17,4 @@
 |[SublimeText](http://www.sublimetext.com/)|编辑器|
 |[rdm](http://redisdesktop.com/)|redis客户端|
 |MongoHub|mongo客户端|
-|[dropbox](https://www.dropbox.com/)|国外专业的文件同步软件、支持全平台、比百度云啥的正规多了、需要翻墙、如果想用国内的、亿方云也不错|
 
