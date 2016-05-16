@@ -17,4 +17,5 @@
 |[SublimeText](http://www.sublimetext.com/)|编辑器|
 |[rdm](http://redisdesktop.com/)|redis客户端|
 |MongoHub|mongo客户端|
+|[dropbox](https://www.dropbox.com/)|国外专业的文件同步软件、支持全平台、比百度云啥的正规多了、需要翻墙、如果想用国内的、亿方云也不错|
 
