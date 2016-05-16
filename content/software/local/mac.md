@@ -18,8 +18,13 @@
 |[CleanMyMac](http://macpaw.com/cleanmymac)|mac下面的清理工具|
 |[AirDroid](http://web.airdroid.com/)|android调试专用神器、不是安装软件，归类放在这边|
 |[Wireshark](https://www.wireshark.org/)|不习惯mac下面Fiddler的童鞋、可以试试|
-|[程序员专用笔记 Quiver](http://blog.rainy.im/2016/01/19/quiver-programmers-notebook/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|mac下的一款记事本、功能很强大|
+|[Quiver](http://blog.rainy.im/2016/01/19/quiver-programmers-notebook/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|程序员专用笔记、mac下的一款记事本、功能很强大|
 |[airmail2](http://airmailapp.com/)|MAC第三方邮箱神器、除了Foxmail的又一个选择、个人感觉比Foxmail好用|
+|[lantern](https://getlantern.org/)|免费的翻墙软件、支持在ios、windows、mac上使用、付费的话、用飞梭、小狐狸加速区都行|
+
+
+
+
 
 
 
