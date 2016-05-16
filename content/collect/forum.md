@@ -8,3 +8,4 @@
 |[CSDN博客频道](http://blog.csdn.net/)|这个就不用说了，大家都知道，国内数一数二的技术论坛|
 |[博客园](http://www.cnblogs.com/)|国内比较知名的论坛|
 |[iteye](http://www.iteye.com/)|老牌论坛之一|
+|[Ruby](https://ruby-china.org/)|和V2EX 氛围类似，不局限于Ruby|
