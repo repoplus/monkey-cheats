@@ -17,7 +17,6 @@
 |[SublimeText](http://www.sublimetext.com/)|编辑器|
 |[rdm](http://redisdesktop.com/)|redis客户端|
 |MongoHub|mongo客户端|
-|[intellijidea](https://github.com/judasn/IntelliJ-IDEA-Tutorial
-)|很好用的java开发ide、下载地址就不提供了、附带一个idea使用教程|
+|[intellijidea](https://github.com/judasn/IntelliJ-IDEA-Tutorial)|很好用的java开发ide、下载地址就不提供了、附带一个idea使用教程|
 
 
