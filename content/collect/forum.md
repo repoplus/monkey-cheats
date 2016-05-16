@@ -9,3 +9,6 @@
 |[博客园](http://www.cnblogs.com/)|国内比较知名的论坛|
 |[iteye](http://www.iteye.com/)|老牌论坛之一|
 |[Ruby](https://ruby-china.org/)|和V2EX 氛围类似，不局限于Ruby|
+|[Node.js 中文社区](http://cnodejs.org/)|Nodejs中文社区|
+
+
