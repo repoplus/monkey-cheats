@@ -13,6 +13,5 @@
     * [论坛](content/collect/forum.md)
     * [技术文档、api、文章](content/collect/api.md)
     * [大神博客](content/collect/blog.md)
-    * [精选博文](content/collect/article.md)
 * [插件](content/plugin.md)
     * [谷歌插件](content/plugin/chrome.md)
