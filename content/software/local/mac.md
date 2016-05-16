@@ -23,6 +23,8 @@
 |[lantern](https://getlantern.org/)|免费的翻墙软件、支持在ios、windows、mac上使用、付费的话、用飞梭、小狐狸加速区都行|
 |[Dash](https://kapeli.com/dash)|MACOSX下面很好用的api查询、管理软件、支持多种语言|
 |[textLab](http://textlab-app.com/)|一款好用的数据格式化工具、支持JSON, SQL, XML, HTML, URL, Text, Numbers等等|
+|[Aria2](http://www.jianshu.com/p/1290f8e7b326)|mac下面的下载神器、能够配合百度云盘一起使用|
+
 
 
 
