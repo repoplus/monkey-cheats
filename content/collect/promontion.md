@@ -31,3 +31,6 @@
 |[开发者头条](http://toutiao.io/)|每天最新互联网和技术资讯|
 |[稀土掘金](http://gold.xitu.io/#/)|同上|
 |[伯乐在线](http://top.jobbole.com/)|同上|
+|[牛客网](http://www.nowcoder.com/courses)|牛客网，程序员必备求职神器、可以在里面学习、刷题、且有很多面试教程|
+
+
