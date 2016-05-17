@@ -23,5 +23,7 @@
 |[daocloud](https://dashboard.daocloud.io/)|docker加速器，很强大，谁用谁知道|
 |[灵雀云](http://www.alauda.cn/)|和daocloud差不多、更注重容器分享等、可以在里面找容器|
 |[linux命令大全](http://man.linuxde.net/)|一个在线命令搜索网站、包含所有linux命令、特别强大、很适合学习使用|
+|[coding、码市](https://coding.net/)|也是一个代码托管平台、同时还具有类似猪八戒的功能、发展势头挺好的、原来的gitcafe也都到coding了|
+
 
 
