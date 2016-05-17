@@ -24,6 +24,9 @@
 |[Dash](https://kapeli.com/dash)|MACOSX下面很好用的api查询、管理软件、支持多种语言|
 |[textLab](http://textlab-app.com/)|一款好用的数据格式化工具、支持JSON, SQL, XML, HTML, URL, Text, Numbers等等|
 |[Aria2](http://www.jianshu.com/p/1290f8e7b326)|mac下面的下载神器、能够配合百度云盘一起使用|
+|[httpie](http://mp.weixin.qq.com/s?__biz=MzI3MTI2NzkxMA==&mid=2247483830&idx=1&sn=dec71acedef41690ba000b05ab2da039&scene=23&srcid=05173mtnKqSlSfH7UnNflQ9i#rd)|如果你经常需要通过终端以非交互模式访问网络服务器(例如，从网络上下载文件，或者是测试RESTful网络服务接口)、该工具比wget或curl更好用|
+
+
 
 
 
