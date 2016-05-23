@@ -127,3 +127,4 @@
     *   [在线图标字体生成](https://icomoon.io/)
     *   [百度地图生成器](http://api.map.baidu.com/lbsapi/creatmap/)
     *   [阿里测](http://www.alibench.com/)
+    *   [IPC备案查询](http://www.miitbeian.gov.cn/publish/query/indexFirst.action)
