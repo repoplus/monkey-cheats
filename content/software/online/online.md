@@ -114,3 +114,4 @@
     *   [文章插入代码高亮转换](http://liuhonghe.me/code/)
     *   [在线生成随机密码](http://randomkeygen.com/)
     *   [页面速度测试](http://www.webpagetest.org/compare?pssid=131120_HV_86a52e8cf118d242843bb5cd91939c50)
+    *   [IP/身份证号在线查询](http://www.ip138.com/)
