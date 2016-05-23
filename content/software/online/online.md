@@ -111,3 +111,4 @@
     *   [查询 IP/IPS](http://ips.ifeng.com/location.do)
     *   [css图片拼合生成器](http://www.cn.spritegen.website-performance.org/)
     *   [网页http在线分析](http://tools.pingdom.com/fpt/)
+    *   [文章插入代码高亮转换](http://liuhonghe.me/code/)
