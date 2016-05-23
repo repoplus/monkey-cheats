@@ -104,34 +104,3 @@
 </tr>
 </tbody>
 </table>
-
-### 收藏在线工具集合
-
-*   [二维码在线生成工具](http://cli.im/)
-*   [查询 IP/IPS](http://ips.ifeng.com/location.do)
-*   [css图片拼合生成器](http://www.cn.spritegen.website-performance.org/)
-*   [网页http在线分析](http://tools.pingdom.com/fpt/)
-*   [文章插入代码高亮转换](http://liuhonghe.me/code/)
-*   [在线生成随机密码](http://randomkeygen.com/)
-*   [页面速度测试](http://www.webpagetest.org/compare?pssid=131120_HV_86a52e8cf118d242843bb5cd91939c50)
-*   [IP/身份证号在线查询](http://www.ip138.com/)
-*   [网页源码W3C认证](http://validator.w3.org/#validate_by_input)
-*   [godaddy域名证书在线生成](http://www.mimidi.com/tools/godaddy-certificate/)
-*   [tool.lu程序猿在线工具](http://tool.lu/)
-*   [PDF转换工具](http://www.pdfdo.com/)
-*   [网站在线地点](http://www.revolvermaps.com/)
-*   [在线检查shell脚本语法](http://www.shellcheck.net/)
-*   [PDF转换WORD](http://www.convertpdftoword.net/)
-*   [htaccess在线编辑制作](http://www.htaccesseditor.com/sc.shtml)
-*   [seo检测](http://www.seo-detective.com/)
-*   [在线图标字体生成](https://icomoon.io/)
-*   [百度地图生成器](http://api.map.baidu.com/lbsapi/creatmap/)
-*   [阿里测](http://www.alibench.com/)
-*   [IPC备案查询](http://www.miitbeian.gov.cn/publish/query/indexFirst.action)
-*   [favicon图标生成器](http://realfavicongenerator.net/)
-*   [图片在线压缩](http://webresizer.com/)
-*   [youtube视频下载](http://en.savefrom.net/)
-*   [pip强内库](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
-*   [文件在线转换](http://cn.office-converter.com/)
-*   [作业部落在线markdown编辑器](https://www.zybuluo.com/mdeditor)
-*   [测试服务器响应时间](https://gtmetrix.com/analyze.html)
