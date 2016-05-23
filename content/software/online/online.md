@@ -126,3 +126,4 @@
     *   [seo检测](http://www.seo-detective.com/)
     *   [在线图标字体生成](https://icomoon.io/)
     *   [百度地图生成器](http://api.map.baidu.com/lbsapi/creatmap/)
+    *   [阿里测](http://www.alibench.com/)
