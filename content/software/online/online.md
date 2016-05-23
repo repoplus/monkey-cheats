@@ -120,3 +120,4 @@
     *   [tool.lu程序猿在线工具](http://tool.lu/)
     *   [PDF转换工具](http://www.pdfdo.com/)
     *   [网站在线地点](http://www.revolvermaps.com/)
+    *   [在线检查shell脚本语法](http://www.shellcheck.net/)
