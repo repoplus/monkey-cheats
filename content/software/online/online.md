@@ -128,3 +128,4 @@
     *   [百度地图生成器](http://api.map.baidu.com/lbsapi/creatmap/)
     *   [阿里测](http://www.alibench.com/)
     *   [IPC备案查询](http://www.miitbeian.gov.cn/publish/query/indexFirst.action)
+    *   [favicon图标生成器](http://realfavicongenerator.net/)
