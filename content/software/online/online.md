@@ -109,3 +109,4 @@
 
         *   [二维码在线生成工具](http://cli.im/)
     *   [查询 IP/IPS](http://ips.ifeng.com/location.do)
+    *   [css图片拼合生成器](http://www.cn.spritegen.website-performance.org/)
