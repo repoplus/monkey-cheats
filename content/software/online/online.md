@@ -108,3 +108,4 @@
 *   其他在线工具
 
         *   [二维码在线生成工具](http://cli.im/)
+    *   [查询 IP/IPS](http://ips.ifeng.com/location.do)
