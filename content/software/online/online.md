@@ -117,3 +117,5 @@
     *   [IP/身份证号在线查询](http://www.ip138.com/)
     *   [网页源码W3C认证](http://validator.w3.org/#validate_by_input)
     *   [godaddy域名证书在线生成](http://www.mimidi.com/tools/godaddy-certificate/)
+    *   [tool.lu程序猿在线工具](http://tool.lu/)
+    *   [PDF转换工具](http://www.pdfdo.com/)
