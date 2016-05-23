@@ -112,3 +112,4 @@
     *   [css图片拼合生成器](http://www.cn.spritegen.website-performance.org/)
     *   [网页http在线分析](http://tools.pingdom.com/fpt/)
     *   [文章插入代码高亮转换](http://liuhonghe.me/code/)
+    *   [在线生成随机密码](http://randomkeygen.com/)
