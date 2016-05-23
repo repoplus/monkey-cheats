@@ -130,3 +130,4 @@
     *   [IPC备案查询](http://www.miitbeian.gov.cn/publish/query/indexFirst.action)
     *   [favicon图标生成器](http://realfavicongenerator.net/)
     *   [图片在线压缩](http://webresizer.com/)
+    *   [youtube视频下载](http://en.savefrom.net/)
