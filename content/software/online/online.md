@@ -132,3 +132,4 @@
     *   [图片在线压缩](http://webresizer.com/)
     *   [youtube视频下载](http://en.savefrom.net/)
     *   [pip强内库](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
+    *   [文件在线转换](http://cn.office-converter.com/)
