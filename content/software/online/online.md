@@ -131,3 +131,4 @@
     *   [favicon图标生成器](http://realfavicongenerator.net/)
     *   [图片在线压缩](http://webresizer.com/)
     *   [youtube视频下载](http://en.savefrom.net/)
+    *   [pip强内库](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
