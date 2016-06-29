@@ -12,6 +12,7 @@
 	* [一篇还算不错的Git学习总结](https://github.com/phodal/github-roam)
 	* [git速查手册](https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md)
 	* [Git超级简明手册](https://github.com/shendl1978/blog/wiki/Git%E8%B6%85%E7%BA%A7%E7%AE%80%E6%98%8E%E6%89%8B%E5%86%8C?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+	* [你需要知道的12个Git高级命令](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=402681345&idx=1&sn=1a90b6f65a85d9626f440091912dd847&scene=2&srcid=0204SwKKuq3n9d4NAk4ALhUb&from=timeline&isappinstalled=0#wechat_redirect)
 	* [Git钩子：自定义你的工作流](https://github.com/geeeeeeeeek/git-recipes/blob/master/sources/Git%E9%92%A9%E5%AD%90.md?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 	* [这个列表，只是为了更好地使用亲爱的GitHub、史上最全](https://github.com/AntBranch/awesome-github)
 * springboot
