@@ -13,6 +13,7 @@
 	* [git速查手册](https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md)
 	* [Git超级简明手册](https://github.com/shendl1978/blog/wiki/Git%E8%B6%85%E7%BA%A7%E7%AE%80%E6%98%8E%E6%89%8B%E5%86%8C?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 	* [Git钩子：自定义你的工作流](https://github.com/geeeeeeeeek/git-recipes/blob/master/sources/Git%E9%92%A9%E5%AD%90.md?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+	* [这个列表，只是为了更好地使用亲爱的GitHub、史上最全](https://github.com/AntBranch/awesome-github)
 * springboot
 	* [gitbook版的springboot入门到精通](https://yuanchongzhen.gitbooks.io/spring-boot-reference-guide/content/)
 	* [Spring Boot：定制自己的starter](http://www.jianshu.com/p/85460c1d835a?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
