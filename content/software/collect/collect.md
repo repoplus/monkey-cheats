@@ -6,6 +6,7 @@
 	* [程序员工具箱](http://tool.php100.com/)
 	* [显著提升程序员身心健康和工作效率的装备有哪些](http://www.zhihu.com/question/23165812/answer/31203694?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 	* [老衣的工具集2015版](http://yimingzhi.net/2015/12/lao-yi-de-gong-ju-ji-2015-ban?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+	* [Mac OS X 和 Linux 下更好用的微信客户端: Electronic WeC](https://github.com/geeeeeeeeek/electronic-wechat)
 * windows
 	* [windows常用软件推荐](http://wsgzao.github.io/post/windows/#)
 	* [程序员工具列表](http://blog.csdn.net/ekeuy/article/details/20225083)
