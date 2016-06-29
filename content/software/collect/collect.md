@@ -16,3 +16,5 @@
 	* [Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac)
 	* [一名全栈设计师的Mac工具箱（设计,开发,效率）](http://www.jianshu.com/p/c271c1b05308)
 	* [Mac神器排名](https://www.sdk.cn/datas?category_id=121301)
+	* [前端工程师的工具包、包含工具、google插件等](http://www.xiaoa.name/blog/2016/03/12/mytool/)
+
