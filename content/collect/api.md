@@ -85,6 +85,7 @@
 	* [Python 学习资源](http://dylanninin.com/blog/2013/11/23/python_resource.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * 正则表达式
 	* [正则表达式之瑞士军刀](http://www.jianshu.com/p/f34ac7657129)
+	* [最全面的常用正则表达式大全](http://toutiao.com/i6231678548520731137/)
 * NodeJS
 	* [NodeJS+Express的教程代码](https://github.com/EthanRBrown/web-development-with-node-and-express)
 	* [node.js中文资料导航](https://github.com/youyudehexie/node123)
