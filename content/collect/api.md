@@ -95,3 +95,5 @@
 	* [国内Nodejs 2015汇总](https://cnodejs.org/topic/5696e43e6272216e51bff67e?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * React-Native
 	* [React-Native学习指南](https://github.com/ele828/react-native-guide)
+* 算法
+	* [算法学习笔记](https://github.com/nonstriater/Learn-Algorithms)
